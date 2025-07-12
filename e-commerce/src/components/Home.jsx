@@ -54,7 +54,7 @@ const Home = () => {
           className="home__image"
         />
         <div className="home__lema">
-          <h2>Los objetos sí merecen una segunda oportunidad,<br />tu ex no.</h2>
+          <h2>LOS OBJETOS SÍ MERECEN UNA SEGUNDA OPORTUNIDAD,<br />TU EX NO.</h2>
         </div>
       </section>
 
